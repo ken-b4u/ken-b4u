@@ -29,11 +29,11 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-ken-b4u.vercel.app/api?username=ken-b4u&count_private=true&show_icons=true&text_color=03abd4&bg_color=00000000&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+      <img src="https://github-readme-stats-ken-b4u.vercel.app/api?username=ken-b4u&count_private=true&show_icons=true&text_color=2EABA5&bg_color=00000000&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
     </td>
     <td>
-      <img src="https://github-readme-stats-ken-b4u.vercel.app/api/top-langs/?username=ken-b4u&layout=donut-vertical&langs_count=10&text_color=03abd4&bg_color=00000000&hide_border=true" />
+      <img src="https://github-readme-stats-ken-b4u.vercel.app/api/top-langs/?username=ken-b4u&layout=donut-vertical&langs_count=10&text_color=2EABA5&bg_color=00000000&hide_border=true" />
     </td>
   </tr>
 </table>
-<img width="865" src="https://github-profile-trophy-silk.vercel.app/?username=ken-b4u&theme=algolia&column=7&no-bg=true&no-frame=true" />
+<img width="818" src="https://github-profile-trophy-silk.vercel.app/?username=ken-b4u&theme=algolia&column=7&no-bg=true&no-frame=true" />
