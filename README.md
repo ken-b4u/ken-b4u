@@ -1,5 +1,9 @@
 ## ken-b4u(Kentarou Muramatsu)
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Handjet&size=30&pause=1000&color=2EABA5&center=true&vCenter=true&width=500&height=100&lines=Full+Stack+Developer;Quick+learner;20%2B+years+of+development+experience" alt="Typing SVG" />
+</p>
+
 ### Bio 🧚‍♂️
 魔法のiらんど→Zynga Japan→GeNERACE CTO→ Pekokari CTO フルスタックエンジニア、物理インフラからゲーム開発まで何でも。大体新宿に居ます。お刺身にたんぽぽ乗せる仕事したい。Tel:08050714108
 
