@@ -1,7 +1,7 @@
 ## ken-b4u(Kentarou Muramatsu)
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Handjet&size=30&pause=1000&color=2EABA5&center=true&vCenter=true&width=500&height=100&lines=Full+Stack+Developer;Quick+learner;20%2B+years+of+development+experience" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Handjet&size=50&pause=1000&color=2EABA5&center=true&vCenter=true&width=680&height=100&lines=Full-Stack+Engineer;Quick+learner;20%2B+years+of+development+experience" alt="Typing SVG" />
 </p>
 
 ### Bio 🧚‍♂️
