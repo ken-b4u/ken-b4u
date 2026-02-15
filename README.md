@@ -30,6 +30,9 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2EABA5.svg?style=for-the-badge)
 ![ESPNet](https://img.shields.io/badge/ESPNet-2EABA5.svg?style=for-the-badge)
 ![Tailscale](https://img.shields.io/badge/Tailscale-2EABA5.svg?style=for-the-badge)
+![CLAUDE](https://img.shields.io/badge/CLAUDE-2EABA5.svg?style=for-the-badge)
+![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-2EABA5.svg?style=for-the-badge)
+
 
 ### Stats :bar_chart: 
 <table>
